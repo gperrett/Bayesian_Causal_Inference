@@ -1,0 +1,13 @@
+name: Cause_BART
+title: Cause_BART
+username:
+account: gperrett
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3351145
+bundleId: 3943495
+url: https://gperrett.shinyapps.io/Cause_BART/
+when: 1607095051.9416
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: functions.R|simulate.R|Data/sample_df.csv|simulation

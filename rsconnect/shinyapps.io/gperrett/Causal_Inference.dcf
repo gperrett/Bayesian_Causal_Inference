@@ -1,0 +1,13 @@
+name: Causal_Inference
+title: Causal_Inference
+username:
+account: gperrett
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3351127
+bundleId: 3942066
+url: https://gperrett.shinyapps.io/Causal_Inference/
+when: 1607067824.92686
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: functions.R|simulate.R|Data/sample_df.csv|simulation
